@@ -16,6 +16,9 @@ ___
 
 **(3) /data**
 - Folder containing the public Titanic dataset (train set)
+
+**(4) /references**
+- Folder containing several sets of lecture notes explaining advanced regression
 ___
 
 ### References
