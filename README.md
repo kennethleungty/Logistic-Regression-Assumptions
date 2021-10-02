@@ -23,7 +23,7 @@ ___
 
 ### References
 - [Machine Learning Essentials - Practical Guide in R](http://www.sthda.com/english/articles/36-classification-methods-essentials/148-logistic-regression-assumptions-and-diagnostics-in-r/)
-- [Logistic and Linear Regression Assumptions: Violation Recognition and Control] (www.lexjansen.com/wuss/2018/130_Final_Paper_PDF.pdf)
+- [Logistic and Linear Regression Assumptions - Violation Recognition and Control](www.lexjansen.com/wuss/2018/130_Final_Paper_PDF.pdf)
 - [Testing linearity in the logit using Box-Tidwell Transformation in SPSS - Youtube](https://www.youtube.com/watch?v=sciPFNcYqi8&ab_channel=MikeCrowson)
 - [Logistic Regression using SPSS](https://www.researchgate.net/publication/344138306_Logistic_Regression_Using_SPSS)
 - [Statistics How To - Cook's Distance](https://www.statisticshowto.com/cooks-distance/)
