@@ -22,4 +22,4 @@ ___
 ___
 
 ### References
-- test
+- [Machine Learning Essentials - Practical Guide in R](http://www.sthda.com/english/articles/36-classification-methods-essentials/148-logistic-regression-assumptions-and-diagnostics-in-r/)
