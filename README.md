@@ -5,6 +5,7 @@
 - Given its popularity and utility, data practitioners must understand the key fundamentals of logistic regression while using it to tackle data and business problems.
 - In this project, we explore the assumptions of logistic regression by explaining the theoretical concepts and practical implementation of the assumption checks in Python.
 - Link to TowardsDataScience article: *Coming soon*
+___
 
 ### Contents
 **(1) Logistic_Regression_Assumptions.ipynb**
@@ -15,6 +16,7 @@
 
 **(3) /data**
 - Folder containing the public Titanic dataset (train set)
+___
 
 ### References
 - test
