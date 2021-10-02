@@ -1,5 +1,5 @@
 # Assumptions of Logistic Regression, Clearly Explained
-### Definitive guide (with Python codes) to understanding the assumptions behind one of the most important statistical techniques in data science
+### Definitive guide (with Python codes) to understanding the assumptions behind one of the most important statistical techniques in data science - Logistic Regression
 
 - Logistic regression is a highly effective mainstay statistical technique still frequently used today, despite being developed since the 1940s.
 - Given its popularity and utility, data practitioners must understand the key fundamentals of logistic regression while using it to tackle data and business problems.
