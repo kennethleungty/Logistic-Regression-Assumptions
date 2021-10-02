@@ -4,7 +4,7 @@
 - Logistic regression is a highly effective mainstay statistical technique still frequently used today, despite being developed since the 1940s.
 - Given its popularity and utility, data practitioners must understand the key fundamentals of logistic regression while using it to tackle data and business problems.
 - In this project, we explore the assumptions of logistic regression by explaining the theoretical concepts and practical implementation of the assumption checks in Python.
-- Link to Medium article:
+- Link to TowardsDataScience article: *Coming soon*
 
 ### Contents
 **(1) Logistic_Regression_Assumptions.ipynb**
@@ -13,6 +13,8 @@
 **(2) Box-Tidwell-Test-in-R.ipynb**
 - Notebook containing R code for running Box-Tidwell test (to check for logit linearity assumption)
 
+**(3) Data folder
+- Containing the public Titanic dataset (train set)
 
 ### References
 - test
