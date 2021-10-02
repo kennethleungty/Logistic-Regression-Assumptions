@@ -22,4 +22,19 @@ ___
 ___
 
 ### References
-- test
+- [Machine Learning Essentials - Practical Guide in R](http://www.sthda.com/english/articles/36-classification-methods-essentials/148-logistic-regression-assumptions-and-diagnostics-in-r/)
+- [Logistic and Linear Regression Assumptions - Violation Recognition and Control](www.lexjansen.com/wuss/2018/130_Final_Paper_PDF.pdf)
+- [Testing linearity in the logit using Box-Tidwell Transformation in SPSS - Youtube](https://www.youtube.com/watch?v=sciPFNcYqi8&ab_channel=MikeCrowson)
+- [Logistic Regression using SPSS](https://www.researchgate.net/publication/344138306_Logistic_Regression_Using_SPSS)
+- [Statistics How To - Cook's Distance](https://www.statisticshowto.com/cooks-distance/)
+- [Statsmodels Documentation - GLM](https://www.statsmodels.org/stable/glm.html)
+- [Statsmodels Documetation - Logit Influence example notebook](https://www.statsmodels.org/dev/examples/notebooks/generated/influence_glm_logit.html)
+- [PennState Eberly College of Science - Stat 462](https://online.stat.psu.edu/stat462/node/173/)
+- [Statistics Solution - Assumptions of Logistic Regression](https://bookdown.org/jefftemplewebb/IS-6489/logistic-regression.html#fn40)
+- [Course Notes for IS 6489 - Statistics and Predictive Analytics](https://bookdown.org/jefftemplewebb/IS-6489/logistic-regression.html#fn40)
+- [MSc in Big Data Analytics at Carlos III University of Madrid - Notes for Predictive Modeling](https://bookdown.org/egarpor/PM-UC3M/)
+- [Freakonometrics - Residuals from a Logistic Regression](https://freakonometrics.hypotheses.org/8210)
+- [Kaggle - Titanic - Logistic Regression with Python](https://www.kaggle.com/mnassrib/titanic-logistic-regression-with-python)
+- [Yellowbrick API Reference - Cook's Distance](https://www.scikit-yb.org/en/latest/api/regressor/influence.html?highlight=cook#module-yellowbrick.regressor.influence)
+- [DataCamp - Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
+- [Statology - How to Calculate Cook's Distance](https://www.statology.org/cooks-distance-python/)
