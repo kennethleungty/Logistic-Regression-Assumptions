@@ -13,8 +13,8 @@
 **(2) Box-Tidwell-Test-in-R.ipynb**
 - Notebook containing R code for running Box-Tidwell test (to check for logit linearity assumption)
 
-**(3) Data folder
-- Containing the public Titanic dataset (train set)
+**(3) /data **
+- Folder containing the public Titanic dataset (train set)
 
 ### References
 - test
