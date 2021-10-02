@@ -7,12 +7,12 @@
 - Link to Medium article:
 
 ### Contents
-1. Logistic_Regression_Assumptions.ipynb
- - The main notebook containing the Python implementation codes (along with explanations) on how to check for each of the 6 key assumptions in logistic regression
+**(1) Logistic_Regression_Assumptions.ipynb**
+- The main notebook containing the Python implementation codes (along with explanations) on how to check for each of the 6 key assumptions in logistic regression
 
-2. Box-Tidwell-Test-in-R.ipynb
- - Notebook containing R code for running Box-Tidwell test (to check for logit linearity assumption)
+**(2) Box-Tidwell-Test-in-R.ipynb**
+- Notebook containing R code for running Box-Tidwell test (to check for logit linearity assumption)
 
 
 ### References
- - test
+- test
