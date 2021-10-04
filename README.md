@@ -1,9 +1,10 @@
 # Assumptions of Logistic Regression, Clearly Explained
-### Definitive guide (with Python codes) to understanding and implementing the assumption checks behind one of the most important statistical techniques in data science - Logistic Regression
+### Intuitive guide (with Python codes) to understanding and implementing the assumption checks behind one of the most important statistical techniques in data science - Logistic Regression
 
-- Logistic regression is a highly effective mainstay statistical technique still frequently used today, despite being developed since the 1940s.
-- Given its popularity and utility, data practitioners must understand the key fundamentals of logistic regression while using it to tackle data and business problems.
-- In this project, we explore the assumptions of logistic regression by explaining the theoretical concepts and practical implementation of the assumption checks in Python.
+- Logistic regression is a highly effective modeling technique that has remained a mainstay in statistics since its development in the 1940s.  
+- Given its popularity and utility, data practitioners should understand the fundamentals of logistic regression before using it to tackle data and business problems.  
+- In this project, we explore the key assumptions of logistic regression with theoretical explanations and practical Python implementation of the assumption checks.  
+
 - Link to TowardsDataScience article: *Coming soon*
 ___
 
@@ -38,3 +39,6 @@ ___
 - [Yellowbrick API Reference - Cook's Distance](https://www.scikit-yb.org/en/latest/api/regressor/influence.html?highlight=cook#module-yellowbrick.regressor.influence)
 - [DataCamp - Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
 - [Statology - How to Calculate Cook's Distance](https://www.statology.org/cooks-distance-python/)
+- [ResearchGate - Box-Tidwell Test in SPSS](https://www.researchgate.net/post/What_is_the_correct_way_to_do_Box-Tidwell_test_in_SPSS_for_logistic_regression)
+- [CrossValidated - Why include x ln x interaction term helps](https://stats.stackexchange.com/questions/217471/why-does-including-x-lnx-interaction-term-in-logistic-regression-model-helps)
+- [UCLA IDRE - Logistic Regression Diagnostics](https://stats.idre.ucla.edu/stata/webbooks/logistic/chapter3/lesson-3-logistic-regression-diagnostics-2/)
