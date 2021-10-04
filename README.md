@@ -40,3 +40,4 @@ ___
 - [DataCamp - Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
 - [Statology - How to Calculate Cook's Distance](https://www.statology.org/cooks-distance-python/)
 - [ResearchGate - Box-Tidwell Test in SPSS](https://www.researchgate.net/post/What_is_the_correct_way_to_do_Box-Tidwell_test_in_SPSS_for_logistic_regression)
+- [CrossValidated - Why include x ln x interaction term helps](https://stats.stackexchange.com/questions/217471/why-does-including-x-lnx-interaction-term-in-logistic-regression-model-helps)
