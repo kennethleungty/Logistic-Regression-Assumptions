@@ -39,3 +39,4 @@ ___
 - [Yellowbrick API Reference - Cook's Distance](https://www.scikit-yb.org/en/latest/api/regressor/influence.html?highlight=cook#module-yellowbrick.regressor.influence)
 - [DataCamp - Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
 - [Statology - How to Calculate Cook's Distance](https://www.statology.org/cooks-distance-python/)
+- [ResearchGate - Box-Tidwell Test in SPSS](https://www.researchgate.net/post/What_is_the_correct_way_to_do_Box-Tidwell_test_in_SPSS_for_logistic_regression)
