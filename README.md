@@ -5,7 +5,7 @@
 - Given its popularity and utility, data practitioners should understand the fundamentals of logistic regression before using it to tackle data and business problems.  
 - In this project, we explore the key assumptions of logistic regression with theoretical explanations and practical Python implementation of the assumption checks.  
 
-- Link to TowardsDataScience article: *Coming soon*
+- Link to TowardsDataScience article: https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290  
 ___
 
 ### Contents
