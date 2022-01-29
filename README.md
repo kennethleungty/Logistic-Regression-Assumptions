@@ -1,5 +1,5 @@
 # Assumptions of Logistic Regression, Clearly Explained
-### Understanding and implementing the assumption checks behind one of the most important statistical techniques in data science - Logistic Regression
+#### Understanding and implementing the assumption checks behind one of the most important statistical techniques in data science - Logistic Regression
 
 - Logistic regression is a highly effective modeling technique that has remained a mainstay in statistics since its development in the 1940s.  
 - Given its popularity and utility, data practitioners should understand the fundamentals of logistic regression before using it to tackle data and business problems.  
@@ -20,6 +20,10 @@ ___
 
 **(4) /references**
 - Folder containing several sets of lecture notes explaining advanced regression
+___
+### Special Thanks
+- @dataninj4 for correcting imports and adding .loc referencing in diagnosis_df cell so that it runs without errors in Python 3.6/3.8
+- @ArneTR for rightly pointing out that VIF calculation should include a constant, and correlation matrix should exclude target variable
 ___
 
 ### References
