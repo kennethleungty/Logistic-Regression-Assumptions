@@ -21,6 +21,10 @@ ___
 **(4) /references**
 - Folder containing several sets of lecture notes explaining advanced regression
 ___
+### Special Thanks
+- 
+- @ArneTR
+___
 
 ### References
 - [Machine Learning Essentials - Practical Guide in R](http://www.sthda.com/english/articles/36-classification-methods-essentials/148-logistic-regression-assumptions-and-diagnostics-in-r/)
