@@ -1,11 +1,9 @@
 # Assumptions of Logistic Regression, Clearly Explained
 #### Understanding and implementing the assumption checks behind one of the most important statistical techniques in data science - Logistic Regression
-
+- Link to TowardsDataScience article: https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290
 - Logistic regression is a highly effective modeling technique that has remained a mainstay in statistics since its development in the 1940s.  
 - Given its popularity and utility, data practitioners should understand the fundamentals of logistic regression before using it to tackle data and business problems.  
-- In this project, we explore the key assumptions of logistic regression with theoretical explanations and practical Python implementation of the assumption checks.  
-
-- Link to TowardsDataScience article: https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290  
+- In this project, we explore the key assumptions of logistic regression with theoretical explanations and practical Python implementation of the assumption checks.    
 ___
 
 ### Contents
