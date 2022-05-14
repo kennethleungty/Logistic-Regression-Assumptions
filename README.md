@@ -44,3 +44,4 @@ ___
 - [ResearchGate - Box-Tidwell Test in SPSS](https://www.researchgate.net/post/What_is_the_correct_way_to_do_Box-Tidwell_test_in_SPSS_for_logistic_regression)
 - [CrossValidated - Why include x ln x interaction term helps](https://stats.stackexchange.com/questions/217471/why-does-including-x-lnx-interaction-term-in-logistic-regression-model-helps)
 - [UCLA IDRE - Logistic Regression Diagnostics](https://stats.idre.ucla.edu/stata/webbooks/logistic/chapter3/lesson-3-logistic-regression-diagnostics-2/)
+- [Logistic and Linear Regression Assumptions: Violation Recognition and Control](https://www.lexjansen.com/wuss/2018/130_Final_Paper_PDF.pdf)
